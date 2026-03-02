@@ -49,6 +49,7 @@ In this project, I took the lead on the core system architecture and implementat
 ## 📝 Publications
 
 - **[In Preparation]**  (To be submitted to 2026)
+- **[Published]** Nakamura, Shohei, and Yoshihiro Okada. "Co-browsing Cubic Gantt Charts with VR Goggles for Collaborative Immersive Visual Data Analytics." In Conference on Complex, Intelligent, and Software Intensive Systems, pp. 384-394. Cham: Springer Nature Switzerland, 2023.
 - **[Published]** Nakamura, Shohei, Kosuke Kaneko, Yoshihiro Okada, Chengjiu Yin, and Hiroaki Ogata. "Cubic gantt chart as visualization tool for learning activity data." In International Conference on Computers in Education. 2015.
-- **[Published]** Nakamura, Shohei, Kosuke Kaneko, Yoshihiro Okada, Chengjiu Yin, and Hiroaki Ogata. "Cubic gantt chart as visualization tool for learning activity data." In International Conference on Computers in Education. 2015.
+
 
