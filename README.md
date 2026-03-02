@@ -49,5 +49,6 @@ In this project, I took the lead on the core system architecture and implementat
 ## 📝 Publications
 
 - **[In Preparation]**  (To be submitted to 2026)
-- **[Published]**Nakamura, Shohei, Kosuke Kaneko, Yoshihiro Okada, Chengjiu Yin, and Hiroaki Ogata. "Cubic gantt chart as visualization tool for learning activity data." In International Conference on Computers in Education. 2015.
 - **[Published]** Nakamura, Shohei, Kosuke Kaneko, Yoshihiro Okada, Chengjiu Yin, and Hiroaki Ogata. "Cubic gantt chart as visualization tool for learning activity data." In International Conference on Computers in Education. 2015.
+- **[Published]** Nakamura, Shohei, Kosuke Kaneko, Yoshihiro Okada, Chengjiu Yin, and Hiroaki Ogata. "Cubic gantt chart as visualization tool for learning activity data." In International Conference on Computers in Education. 2015.
+
